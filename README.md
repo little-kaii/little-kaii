@@ -23,6 +23,7 @@
 📫 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/akash-debnath-5a8648249/)
 - [Twitter](https://twitter.com/THISIS_AKASHIC)
+- [Instagram](https://www.instagram.com/fl3xi.ii/?hl=en)
 - [Portfolio/Blog](https://)
 
 
