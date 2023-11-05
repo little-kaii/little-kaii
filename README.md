@@ -13,7 +13,7 @@
 -   Full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js)
 -   Frontend development with HTML, CSS (Sass and Tailwind CSS), and JavaScript
 -   Backend development and API design
--   Database design and management, particularly MongoDB
+-   Database design and management, particularly MongoDB and PostgreSQL
 -   Building responsive and user-friendly web applications
 -   Problem-solving and debugging
 -   Version control with Git
