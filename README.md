@@ -8,6 +8,14 @@
     available to help and learn together.
 -   📫 You can reach me with the links below
 
+##### My Socials
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/developedbyak)
+[<img src="https://img.shields.io/github/followers/developedbyak?label=follow&style=social" height="22" title="Follow me" />](https://github.com/developedbyak)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashdebnathwd@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-c13584?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-debnath-5a8648249/)
+[![discord](https://img.shields.io/badge/-Discord-232D3F?-000000?style=flat&logo=discord)](https://discord.gg/gXXxvwhU3j)
+
 ##### 🚀 My areas of expertise:
 
 -   Full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js)
@@ -18,14 +26,6 @@
 -   Problem-solving and debugging
 -   Version control with Git
 -   Web performance optimization
-
-##### My Socials
-
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/developedbyak)
-[<img src="https://img.shields.io/github/followers/developedbyak?label=follow&style=social" height="22" title="Follow me" />](https://github.com/developedbyak)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashdebnathwd@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-c13584?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-debnath-5a8648249/)
-[![discord](https://img.shields.io/badge/-Discord-232D3F?-000000?style=flat&logo=discord)](https://discord.gg/gXXxvwhU3j)
 
 ##### Languages that I use
 
