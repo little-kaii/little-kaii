@@ -3,7 +3,7 @@
 🌍 Based in ["india"]<br>
 👨‍💻 Web Developer | 🌐 Open-Source Enthusiast | 📚 Lifelong Learner
 
--   🎓 B.Tech in Information Technology, Graduated in 2023
+-   🎓 B.Tech in Computer science and engineering, Graduated in 2023
 -   💬 Ask me about programming in general, I am always
     available to help and learn together.
 -   📫 You can reach me with the links below
