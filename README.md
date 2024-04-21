@@ -1,5 +1,6 @@
 ![Visitor count](https://profile-counter.glitch.me/developedbyak/count.svg)
-[![Years Badge]](https://badges.pufler.dev/years/developedbyak)
+
+[![Years Badge]](https://badges.pufler.dev/years/developedbyak)]
 
 ##### Hi, it's Akash Debnath, I'm 24 years old
 
