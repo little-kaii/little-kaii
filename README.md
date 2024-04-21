@@ -1,3 +1,5 @@
+![Visitor count](https://profile-counter.glitch.me/developedbyak/count.svg)
+
 ##### Hi, it's Akash Debnath, I'm 24 years old
 
 🌍 Based in ["india"]<br>
@@ -15,8 +17,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashdebnathwd@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-c13584?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-debnath-5a8648249/)
 [![discord](https://img.shields.io/badge/-Discord-232D3F?-000000?style=flat&logo=discord)](https://discord.gg/gXXxvwhU3j)
-
-![GitHub visitor count](https://profile-counter.glitch.me/)
 
 ##### 🚀 My areas of expertise:
 
