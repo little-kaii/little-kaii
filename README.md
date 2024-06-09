@@ -1,5 +1,4 @@
-(https://www.holopin.io/claim/clx6yq4h863410cju2snwh777)
-[![An image of @asyncawai's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@asyncawai)](https://www.holopin.io/@asyncawai)
+[![An image of @asyncawai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asyncawai)](https://holopin.io/@asyncawai)
 ##### Hi, it's Akash Debnath, I'm 24 years old
 
 🌍 Based in ["india"]<br>
