@@ -1,6 +1,6 @@
 ### Hey, I'm Akash  
 
-I'm a 25-year-old developer based in India, and I'm passionate about crafting digital experiences. 
+🌏 Based in India, and I'm passionate about crafting digital experiences. 
  
 ## Technologies I use
 
